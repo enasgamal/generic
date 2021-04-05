@@ -1,0 +1,13 @@
+.navbar
+{
+    background-color: teal !important;
+    font-weight: bold;
+    height: 65px;
+    color: #212529;
+}
+.navbar-nav
+{
+    color: #212529 !important;
+    font-size: larger;
+    font-weight: bold;
+}

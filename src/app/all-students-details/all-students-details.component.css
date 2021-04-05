@@ -1,0 +1,54 @@
+
+.card{
+    /* border: 1px solid #000; */
+    /* padding: 2rem; */
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    border-color: #aaa;
+    box-shadow: 5px 5px 5px 5px #aaa,-10px 10px 10px -10px #aaa;
+    
+}
+h2{
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #444;
+}
+.card-body h4{
+    font-size: 1.7rem;
+    
+}
+.card-body h4 span{
+    color: #DE1E45;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+ul li {
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+ul li span{
+    margin-right: 1.2rem;
+    color: teal;
+    font-size: 1.2rem !important;
+}
+section#reserve .rules ul p{
+    margin-left: 3rem;
+}
+
+h4.contact{
+    font-weight: bold;
+}
+
+img{
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
